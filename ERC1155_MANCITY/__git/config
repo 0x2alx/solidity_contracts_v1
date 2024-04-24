@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://ghooost42a@bitbucket.org/ghooost42a/smartcontracts.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "ghooost0x2a"]
+	remote = origin
+	merge = refs/heads/ghooost0x2a
+[branch "ERC721B2FA_DDCs02"]
+	remote = origin
+	merge = refs/heads/ERC721B2FA_DDCs02

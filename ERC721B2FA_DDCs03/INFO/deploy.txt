@@ -1,0 +1,9 @@
+Rinkeby latest: 0x7c79a11aE4FF5497614262a491D5f632926FeD2d
+
+1. Deploy & Verify
+2. Authorize contract guardian
+3. Set Common URI
+4. Mint 1 or 2 to test
+5. Setup collection on OS
+    5.2 Deploy PaymentSplitter 
+6. Transfer Ownership ledger

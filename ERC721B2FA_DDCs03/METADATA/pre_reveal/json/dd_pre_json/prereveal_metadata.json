@@ -1,0 +1,20 @@
+{
+  "name": "Demonic Dorks",
+  "description": "Demonic Dorks DESCRIPTION - TODO",
+  "image": "ipfs://QmQzepaj8BMFBaixFSdNJv1iE51QLjPHdoueqybuKLZa4z/demonic_dork_prereveal.gif",
+  "date": 1658155393,
+  "attributes": [
+    {
+      "trait_type": "A1 Name",
+      "value": "A1 Value"
+    },
+    {
+      "trait_type": "A2 Name",
+      "value": "A2 Value"
+    },
+    {
+      "trait_type": "A3 Name",
+      "value": "A3 Value"
+    }
+  ]
+}

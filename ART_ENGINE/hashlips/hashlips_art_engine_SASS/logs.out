@@ -1,0 +1,1883 @@
+
+> hashlips_art_engine@1.1.1 generate
+> node index.js
+
+[
+  {
+    id: 0,
+    elements: [ [Object] ],
+    name: 'Background',
+    blend: 'source-over',
+    opacity: 1,
+    bypassDNA: false
+  },
+  {
+    id: 1,
+    elements: [ [Object], [Object] ],
+    name: 'Eyeball',
+    blend: 'source-over',
+    opacity: 1,
+    bypassDNA: false
+  },
+  {
+    id: 2,
+    elements: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    name: 'Eye color',
+    blend: 'source-over',
+    opacity: 1,
+    bypassDNA: false
+  },
+  {
+    id: 3,
+    elements: [ [Object], [Object], [Object] ],
+    name: 'Iris',
+    blend: 'source-over',
+    opacity: 1,
+    bypassDNA: false
+  },
+  {
+    id: 4,
+    elements: [ [Object] ],
+    name: 'Shine',
+    blend: 'source-over',
+    opacity: 1,
+    bypassDNA: false
+  },
+  {
+    id: 5,
+    elements: [ [Object], [Object], [Object] ],
+    name: 'Bottom lid',
+    blend: 'source-over',
+    opacity: 1,
+    bypassDNA: false
+  },
+  {
+    id: 6,
+    elements: [ [Object], [Object], [Object] ],
+    name: 'Top lid',
+    blend: 'source-over',
+    opacity: 1,
+    bypassDNA: false
+  }
+]
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 27
+Red random = 27 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 10
+Cyan random = 10 - 1
+Green random = 9 - 1
+Pink random = 8 - 1
+Purple random = 7 - 1
+Red random = 6 - 1
+Yellow random = 5 - 10
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 25
+Large random = 25 - 20
+Medium random = 5 - 20
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 98
+Shapes random = 98 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 4
+High random = 4 - 20
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 70
+High random = 70 - 30
+Low random = 40 - 20
+Middle random = 20 - 50
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '0:Red#50.png',
+  '5:Yellow#10.png',
+  '1:Medium#20.png',
+  '0:Shapes#100.png',
+  '0:High#20.png',
+  '2:Middle#50.png'
+]
+RETURN: 0:Black#1.png-0:Red#50.png-5:Yellow#10.png-1:Medium#20.png-0:Shapes#100.png-0:High#20.png-2:Middle#50.png
+			AFTER createDNA 105
+Created edition: 1, with DNA: a85bae4a3be104d33b46d3e4ce012b3157ae3628
+	 abs indexes: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+	 abs indexes: 2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 94
+Red random = 94 - 50
+White random = 44 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 6
+Cyan random = 6 - 1
+Green random = 5 - 1
+Pink random = 4 - 1
+Purple random = 3 - 1
+Red random = 2 - 1
+Yellow random = 1 - 10
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 53
+Large random = 53 - 20
+Medium random = 33 - 20
+Small random = 13 - 60
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 41
+Shapes random = 41 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 54
+High random = 54 - 20
+Low random = 34 - 40
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 78
+High random = 78 - 30
+Low random = 48 - 20
+Middle random = 28 - 50
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '1:White#50.png',
+  '5:Yellow#10.png',
+  '2:Small#60.png',
+  '0:Shapes#100.png',
+  '1:Low#40.png',
+  '2:Middle#50.png'
+]
+RETURN: 0:Black#1.png-1:White#50.png-5:Yellow#10.png-2:Small#60.png-0:Shapes#100.png-1:Low#40.png-2:Middle#50.png
+			AFTER createDNA 105
+Created edition: 2, with DNA: f795dbbebbe18288e2db37c0dcf21e202823d597
+	 abs indexes: 2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+	 abs indexes: 3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 65
+Red random = 65 - 50
+White random = 15 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 0
+Cyan random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 80
+Large random = 80 - 20
+Medium random = 60 - 20
+Small random = 40 - 60
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 32
+Shapes random = 32 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 60
+High random = 60 - 20
+Low random = 40 - 40
+Middle random = 0 - 40
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 44
+High random = 44 - 30
+Low random = 14 - 20
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '1:White#50.png',
+  '0:Cyan#1.png',
+  '2:Small#60.png',
+  '0:Shapes#100.png',
+  '2:Middle#40.png',
+  '1:Low#20.png'
+]
+RETURN: 0:Black#1.png-1:White#50.png-0:Cyan#1.png-2:Small#60.png-0:Shapes#100.png-2:Middle#40.png-1:Low#20.png
+			AFTER createDNA 102
+Created edition: 3, with DNA: 9ad553e4e984b250f06d86975e6d5880d9b20c26
+	 abs indexes: 3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+	 abs indexes: 4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 80
+Red random = 80 - 50
+White random = 30 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 11
+Cyan random = 11 - 1
+Green random = 10 - 1
+Pink random = 9 - 1
+Purple random = 8 - 1
+Red random = 7 - 1
+Yellow random = 6 - 10
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 32
+Large random = 32 - 20
+Medium random = 12 - 20
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 87
+Shapes random = 87 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 9
+High random = 9 - 20
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 42
+High random = 42 - 30
+Low random = 12 - 20
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '1:White#50.png',
+  '5:Yellow#10.png',
+  '1:Medium#20.png',
+  '0:Shapes#100.png',
+  '0:High#20.png',
+  '1:Low#20.png'
+]
+RETURN: 0:Black#1.png-1:White#50.png-5:Yellow#10.png-1:Medium#20.png-0:Shapes#100.png-0:High#20.png-1:Low#20.png
+			AFTER createDNA 104
+Created edition: 4, with DNA: a6618a13f2fd56320acaf3f82e71a1c776178130
+	 abs indexes: 4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+	 abs indexes: 5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 39
+Red random = 39 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 12
+Cyan random = 12 - 1
+Green random = 11 - 1
+Pink random = 10 - 1
+Purple random = 9 - 1
+Red random = 8 - 1
+Yellow random = 7 - 10
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 94
+Large random = 94 - 20
+Medium random = 74 - 20
+Small random = 54 - 60
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 90
+Shapes random = 90 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 46
+High random = 46 - 20
+Low random = 26 - 40
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 56
+High random = 56 - 30
+Low random = 26 - 20
+Middle random = 6 - 50
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '0:Red#50.png',
+  '5:Yellow#10.png',
+  '2:Small#60.png',
+  '0:Shapes#100.png',
+  '1:Low#40.png',
+  '2:Middle#50.png'
+]
+RETURN: 0:Black#1.png-0:Red#50.png-5:Yellow#10.png-2:Small#60.png-0:Shapes#100.png-1:Low#40.png-2:Middle#50.png
+			AFTER createDNA 103
+Created edition: 5, with DNA: 59ed9aa1f8dba18e866485aeda070367f75a8c6f
+	 abs indexes: 5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+	 abs indexes: 6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 8
+Red random = 8 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 10
+Cyan random = 10 - 1
+Green random = 9 - 1
+Pink random = 8 - 1
+Purple random = 7 - 1
+Red random = 6 - 1
+Yellow random = 5 - 10
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 47
+Large random = 47 - 20
+Medium random = 27 - 20
+Small random = 7 - 60
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 62
+Shapes random = 62 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 47
+High random = 47 - 20
+Low random = 27 - 40
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 12
+High random = 12 - 30
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '0:Red#50.png',
+  '5:Yellow#10.png',
+  '2:Small#60.png',
+  '0:Shapes#100.png',
+  '1:Low#40.png',
+  '0:High#30.png'
+]
+RETURN: 0:Black#1.png-0:Red#50.png-5:Yellow#10.png-2:Small#60.png-0:Shapes#100.png-1:Low#40.png-0:High#30.png
+			AFTER createDNA 101
+Created edition: 6, with DNA: 9a90509d2faeda9fe5f19852653a8033442665a0
+	 abs indexes: 6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+	 abs indexes: 7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 2
+Red random = 2 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 3
+Cyan random = 3 - 1
+Green random = 2 - 1
+Pink random = 1 - 1
+Purple random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 64
+Large random = 64 - 20
+Medium random = 44 - 20
+Small random = 24 - 60
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 80
+Shapes random = 80 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 2
+High random = 2 - 20
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 67
+High random = 67 - 30
+Low random = 37 - 20
+Middle random = 17 - 50
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '0:Red#50.png',
+  '3:Purple#1.png',
+  '2:Small#60.png',
+  '0:Shapes#100.png',
+  '0:High#20.png',
+  '2:Middle#50.png'
+]
+RETURN: 0:Black#1.png-0:Red#50.png-3:Purple#1.png-2:Small#60.png-0:Shapes#100.png-0:High#20.png-2:Middle#50.png
+			AFTER createDNA 103
+Created edition: 7, with DNA: cecdb5d311760367c8c6dd92a2845a7ff20f853e
+	 abs indexes: 7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+	 abs indexes: 8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 5
+Red random = 5 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 11
+Cyan random = 11 - 1
+Green random = 10 - 1
+Pink random = 9 - 1
+Purple random = 8 - 1
+Red random = 7 - 1
+Yellow random = 6 - 10
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 91
+Large random = 91 - 20
+Medium random = 71 - 20
+Small random = 51 - 60
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 92
+Shapes random = 92 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 70
+High random = 70 - 20
+Low random = 50 - 40
+Middle random = 10 - 40
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 49
+High random = 49 - 30
+Low random = 19 - 20
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '0:Red#50.png',
+  '5:Yellow#10.png',
+  '2:Small#60.png',
+  '0:Shapes#100.png',
+  '2:Middle#40.png',
+  '1:Low#20.png'
+]
+RETURN: 0:Black#1.png-0:Red#50.png-5:Yellow#10.png-2:Small#60.png-0:Shapes#100.png-2:Middle#40.png-1:Low#20.png
+			AFTER createDNA 103
+Created edition: 8, with DNA: fb3e56e7b876049a499544c86accb1026a2d4324
+	 abs indexes: 8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+	 abs indexes: 9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 68
+Red random = 68 - 50
+White random = 18 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 3
+Cyan random = 3 - 1
+Green random = 2 - 1
+Pink random = 1 - 1
+Purple random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 23
+Large random = 23 - 20
+Medium random = 3 - 20
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 30
+Shapes random = 30 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 2
+High random = 2 - 20
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 41
+High random = 41 - 30
+Low random = 11 - 20
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '1:White#50.png',
+  '3:Purple#1.png',
+  '1:Medium#20.png',
+  '0:Shapes#100.png',
+  '0:High#20.png',
+  '1:Low#20.png'
+]
+RETURN: 0:Black#1.png-1:White#50.png-3:Purple#1.png-1:Medium#20.png-0:Shapes#100.png-0:High#20.png-1:Low#20.png
+			AFTER createDNA 103
+Created edition: 9, with DNA: 1fbc0ec54f99717096f04413f27992f91c809fbb
+	 abs indexes: 9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+	 abs indexes: 10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 6
+Red random = 6 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 7
+Cyan random = 7 - 1
+Green random = 6 - 1
+Pink random = 5 - 1
+Purple random = 4 - 1
+Red random = 3 - 1
+Yellow random = 2 - 10
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 39
+Large random = 39 - 20
+Medium random = 19 - 20
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 53
+Shapes random = 53 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 98
+High random = 98 - 20
+Low random = 78 - 40
+Middle random = 38 - 40
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 59
+High random = 59 - 30
+Low random = 29 - 20
+Middle random = 9 - 50
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '0:Red#50.png',
+  '5:Yellow#10.png',
+  '1:Medium#20.png',
+  '0:Shapes#100.png',
+  '2:Middle#40.png',
+  '2:Middle#50.png'
+]
+RETURN: 0:Black#1.png-0:Red#50.png-5:Yellow#10.png-1:Medium#20.png-0:Shapes#100.png-2:Middle#40.png-2:Middle#50.png
+			AFTER createDNA 107
+Created edition: 10, with DNA: f6decd3758fec287ebba5cda110e0f50afacd3d1
+	 abs indexes: 10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+	 abs indexes: 11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 88
+Red random = 88 - 50
+White random = 38 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 13
+Cyan random = 13 - 1
+Green random = 12 - 1
+Pink random = 11 - 1
+Purple random = 10 - 1
+Red random = 9 - 1
+Yellow random = 8 - 10
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 93
+Large random = 93 - 20
+Medium random = 73 - 20
+Small random = 53 - 60
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 43
+Shapes random = 43 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 5
+High random = 5 - 20
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 79
+High random = 79 - 30
+Low random = 49 - 20
+Middle random = 29 - 50
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '1:White#50.png',
+  '5:Yellow#10.png',
+  '2:Small#60.png',
+  '0:Shapes#100.png',
+  '0:High#20.png',
+  '2:Middle#50.png'
+]
+RETURN: 0:Black#1.png-1:White#50.png-5:Yellow#10.png-2:Small#60.png-0:Shapes#100.png-0:High#20.png-2:Middle#50.png
+			AFTER createDNA 106
+Created edition: 11, with DNA: 33f9c0add9a15304d43d16af3804204b34422565
+	 abs indexes: 11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+	 abs indexes: 12,13,14,15,16,17,18,19,20,21,22,23,24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 42
+Red random = 42 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 10
+Cyan random = 10 - 1
+Green random = 9 - 1
+Pink random = 8 - 1
+Purple random = 7 - 1
+Red random = 6 - 1
+Yellow random = 5 - 10
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 68
+Large random = 68 - 20
+Medium random = 48 - 20
+Small random = 28 - 60
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 31
+Shapes random = 31 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 98
+High random = 98 - 20
+Low random = 78 - 40
+Middle random = 38 - 40
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 52
+High random = 52 - 30
+Low random = 22 - 20
+Middle random = 2 - 50
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '0:Red#50.png',
+  '5:Yellow#10.png',
+  '2:Small#60.png',
+  '0:Shapes#100.png',
+  '2:Middle#40.png',
+  '2:Middle#50.png'
+]
+RETURN: 0:Black#1.png-0:Red#50.png-5:Yellow#10.png-2:Small#60.png-0:Shapes#100.png-2:Middle#40.png-2:Middle#50.png
+			AFTER createDNA 106
+Created edition: 12, with DNA: a07a9dad7fa467f9841644fe96e551bec34fca68
+	 abs indexes: 12,13,14,15,16,17,18,19,20,21,22,23,24,25
+	 abs indexes: 13,14,15,16,17,18,19,20,21,22,23,24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 87
+Red random = 87 - 50
+White random = 37 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 12
+Cyan random = 12 - 1
+Green random = 11 - 1
+Pink random = 10 - 1
+Purple random = 9 - 1
+Red random = 8 - 1
+Yellow random = 7 - 10
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 12
+Large random = 12 - 20
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 77
+Shapes random = 77 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 78
+High random = 78 - 20
+Low random = 58 - 40
+Middle random = 18 - 40
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 44
+High random = 44 - 30
+Low random = 14 - 20
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '1:White#50.png',
+  '5:Yellow#10.png',
+  '0:Large#20.png',
+  '0:Shapes#100.png',
+  '2:Middle#40.png',
+  '1:Low#20.png'
+]
+RETURN: 0:Black#1.png-1:White#50.png-5:Yellow#10.png-0:Large#20.png-0:Shapes#100.png-2:Middle#40.png-1:Low#20.png
+			AFTER createDNA 105
+Created edition: 13, with DNA: dc5a0fac249210c035a6dccd4097fe8514a02d91
+	 abs indexes: 13,14,15,16,17,18,19,20,21,22,23,24,25
+	 abs indexes: 14,15,16,17,18,19,20,21,22,23,24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 44
+Red random = 44 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 13
+Cyan random = 13 - 1
+Green random = 12 - 1
+Pink random = 11 - 1
+Purple random = 10 - 1
+Red random = 9 - 1
+Yellow random = 8 - 10
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 46
+Large random = 46 - 20
+Medium random = 26 - 20
+Small random = 6 - 60
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 94
+Shapes random = 94 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 6
+High random = 6 - 20
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 21
+High random = 21 - 30
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '0:Red#50.png',
+  '5:Yellow#10.png',
+  '2:Small#60.png',
+  '0:Shapes#100.png',
+  '0:High#20.png',
+  '0:High#30.png'
+]
+RETURN: 0:Black#1.png-0:Red#50.png-5:Yellow#10.png-2:Small#60.png-0:Shapes#100.png-0:High#20.png-0:High#30.png
+			AFTER createDNA 102
+Created edition: 14, with DNA: 7a30586659fb2b09112dea97a4b3f5b5a9fa053a
+	 abs indexes: 14,15,16,17,18,19,20,21,22,23,24,25
+	 abs indexes: 15,16,17,18,19,20,21,22,23,24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 10
+Red random = 10 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 3
+Cyan random = 3 - 1
+Green random = 2 - 1
+Pink random = 1 - 1
+Purple random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 71
+Large random = 71 - 20
+Medium random = 51 - 20
+Small random = 31 - 60
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 79
+Shapes random = 79 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 31
+High random = 31 - 20
+Low random = 11 - 40
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 62
+High random = 62 - 30
+Low random = 32 - 20
+Middle random = 12 - 50
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '0:Red#50.png',
+  '3:Purple#1.png',
+  '2:Small#60.png',
+  '0:Shapes#100.png',
+  '1:Low#40.png',
+  '2:Middle#50.png'
+]
+RETURN: 0:Black#1.png-0:Red#50.png-3:Purple#1.png-2:Small#60.png-0:Shapes#100.png-1:Low#40.png-2:Middle#50.png
+			AFTER createDNA 102
+Created edition: 15, with DNA: 396fe28c3b53ae48e25000f728b508db821cd02a
+	 abs indexes: 15,16,17,18,19,20,21,22,23,24,25
+	 abs indexes: 16,17,18,19,20,21,22,23,24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 94
+Red random = 94 - 50
+White random = 44 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 10
+Cyan random = 10 - 1
+Green random = 9 - 1
+Pink random = 8 - 1
+Purple random = 7 - 1
+Red random = 6 - 1
+Yellow random = 5 - 10
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 83
+Large random = 83 - 20
+Medium random = 63 - 20
+Small random = 43 - 60
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 18
+Shapes random = 18 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 15
+High random = 15 - 20
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 32
+High random = 32 - 30
+Low random = 2 - 20
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '1:White#50.png',
+  '5:Yellow#10.png',
+  '2:Small#60.png',
+  '0:Shapes#100.png',
+  '0:High#20.png',
+  '1:Low#20.png'
+]
+RETURN: 0:Black#1.png-1:White#50.png-5:Yellow#10.png-2:Small#60.png-0:Shapes#100.png-0:High#20.png-1:Low#20.png
+			AFTER createDNA 103
+Created edition: 16, with DNA: 1386d3ebaca3cfdbb8a5af4a740b469f8ec4b95b
+	 abs indexes: 16,17,18,19,20,21,22,23,24,25
+	 abs indexes: 17,18,19,20,21,22,23,24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 10
+Red random = 10 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 5
+Cyan random = 5 - 1
+Green random = 4 - 1
+Pink random = 3 - 1
+Purple random = 2 - 1
+Red random = 1 - 1
+Yellow random = 0 - 10
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 33
+Large random = 33 - 20
+Medium random = 13 - 20
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 0
+Shapes random = 0 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 33
+High random = 33 - 20
+Low random = 13 - 40
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 3
+High random = 3 - 30
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '0:Red#50.png',
+  '5:Yellow#10.png',
+  '1:Medium#20.png',
+  '0:Shapes#100.png',
+  '1:Low#40.png',
+  '0:High#30.png'
+]
+RETURN: 0:Black#1.png-0:Red#50.png-5:Yellow#10.png-1:Medium#20.png-0:Shapes#100.png-1:Low#40.png-0:High#30.png
+			AFTER createDNA 102
+Created edition: 17, with DNA: d3b85aab84a8810e2d0caf38dd1cdfc5e3ea11d8
+	 abs indexes: 17,18,19,20,21,22,23,24,25
+	 abs indexes: 18,19,20,21,22,23,24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 47
+Red random = 47 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 4
+Cyan random = 4 - 1
+Green random = 3 - 1
+Pink random = 2 - 1
+Purple random = 1 - 1
+Red random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 0
+Large random = 0 - 20
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 63
+Shapes random = 63 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 91
+High random = 91 - 20
+Low random = 71 - 40
+Middle random = 31 - 40
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 12
+High random = 12 - 30
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '0:Red#50.png',
+  '4:Red#1.png',
+  '0:Large#20.png',
+  '0:Shapes#100.png',
+  '2:Middle#40.png',
+  '0:High#30.png'
+]
+RETURN: 0:Black#1.png-0:Red#50.png-4:Red#1.png-0:Large#20.png-0:Shapes#100.png-2:Middle#40.png-0:High#30.png
+			AFTER createDNA 100
+Created edition: 18, with DNA: 9e6c543826c1cb08d89ebe513f72d53e71e9b79a
+	 abs indexes: 18,19,20,21,22,23,24,25
+	 abs indexes: 19,20,21,22,23,24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 83
+Red random = 83 - 50
+White random = 33 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 8
+Cyan random = 8 - 1
+Green random = 7 - 1
+Pink random = 6 - 1
+Purple random = 5 - 1
+Red random = 4 - 1
+Yellow random = 3 - 10
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 23
+Large random = 23 - 20
+Medium random = 3 - 20
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 56
+Shapes random = 56 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 84
+High random = 84 - 20
+Low random = 64 - 40
+Middle random = 24 - 40
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 55
+High random = 55 - 30
+Low random = 25 - 20
+Middle random = 5 - 50
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '1:White#50.png',
+  '5:Yellow#10.png',
+  '1:Medium#20.png',
+  '0:Shapes#100.png',
+  '2:Middle#40.png',
+  '2:Middle#50.png'
+]
+RETURN: 0:Black#1.png-1:White#50.png-5:Yellow#10.png-1:Medium#20.png-0:Shapes#100.png-2:Middle#40.png-2:Middle#50.png
+			AFTER createDNA 109
+Created edition: 19, with DNA: d47b0a25b0dda3139a44cbb2d27d8975026f7683
+	 abs indexes: 19,20,21,22,23,24,25
+	 abs indexes: 20,21,22,23,24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 31
+Red random = 31 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 0
+Cyan random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 7
+Large random = 7 - 20
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 14
+Shapes random = 14 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 2
+High random = 2 - 20
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 69
+High random = 69 - 30
+Low random = 39 - 20
+Middle random = 19 - 50
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '0:Red#50.png',
+  '0:Cyan#1.png',
+  '0:Large#20.png',
+  '0:Shapes#100.png',
+  '0:High#20.png',
+  '2:Middle#50.png'
+]
+RETURN: 0:Black#1.png-0:Red#50.png-0:Cyan#1.png-0:Large#20.png-0:Shapes#100.png-0:High#20.png-2:Middle#50.png
+			AFTER createDNA 101
+Created edition: 20, with DNA: d091098d110f8c06054467a581a5c0c3b7c879c4
+	 abs indexes: 20,21,22,23,24,25
+	 abs indexes: 21,22,23,24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 95
+Red random = 95 - 50
+White random = 45 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 8
+Cyan random = 8 - 1
+Green random = 7 - 1
+Pink random = 6 - 1
+Purple random = 5 - 1
+Red random = 4 - 1
+Yellow random = 3 - 10
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 41
+Large random = 41 - 20
+Medium random = 21 - 20
+Small random = 1 - 60
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 49
+Shapes random = 49 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 31
+High random = 31 - 20
+Low random = 11 - 40
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 36
+High random = 36 - 30
+Low random = 6 - 20
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '1:White#50.png',
+  '5:Yellow#10.png',
+  '2:Small#60.png',
+  '0:Shapes#100.png',
+  '1:Low#40.png',
+  '1:Low#20.png'
+]
+RETURN: 0:Black#1.png-1:White#50.png-5:Yellow#10.png-2:Small#60.png-0:Shapes#100.png-1:Low#40.png-1:Low#20.png
+			AFTER createDNA 102
+Created edition: 21, with DNA: 75e313cf2f54b7abcff09a7cab8c557510ab0c80
+	 abs indexes: 21,22,23,24,25
+	 abs indexes: 22,23,24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 26
+Red random = 26 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 6
+Cyan random = 6 - 1
+Green random = 5 - 1
+Pink random = 4 - 1
+Purple random = 3 - 1
+Red random = 2 - 1
+Yellow random = 1 - 10
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 29
+Large random = 29 - 20
+Medium random = 9 - 20
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 62
+Shapes random = 62 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 17
+High random = 17 - 20
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 93
+High random = 93 - 30
+Low random = 63 - 20
+Middle random = 43 - 50
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '0:Red#50.png',
+  '5:Yellow#10.png',
+  '1:Medium#20.png',
+  '0:Shapes#100.png',
+  '0:High#20.png',
+  '2:Middle#50.png'
+]
+RETURN: 0:Black#1.png-0:Red#50.png-5:Yellow#10.png-1:Medium#20.png-0:Shapes#100.png-0:High#20.png-2:Middle#50.png
+			AFTER createDNA 105
+DNA exists!
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 29
+Red random = 29 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 12
+Cyan random = 12 - 1
+Green random = 11 - 1
+Pink random = 10 - 1
+Purple random = 9 - 1
+Red random = 8 - 1
+Yellow random = 7 - 10
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 37
+Large random = 37 - 20
+Medium random = 17 - 20
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 22
+Shapes random = 22 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 8
+High random = 8 - 20
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 84
+High random = 84 - 30
+Low random = 54 - 20
+Middle random = 34 - 50
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '0:Red#50.png',
+  '5:Yellow#10.png',
+  '1:Medium#20.png',
+  '0:Shapes#100.png',
+  '0:High#20.png',
+  '2:Middle#50.png'
+]
+RETURN: 0:Black#1.png-0:Red#50.png-5:Yellow#10.png-1:Medium#20.png-0:Shapes#100.png-0:High#20.png-2:Middle#50.png
+			AFTER createDNA 105
+DNA exists!
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 34
+Red random = 34 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 4
+Cyan random = 4 - 1
+Green random = 3 - 1
+Pink random = 2 - 1
+Purple random = 1 - 1
+Red random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 60
+Large random = 60 - 20
+Medium random = 40 - 20
+Small random = 20 - 60
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 13
+Shapes random = 13 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 28
+High random = 28 - 20
+Low random = 8 - 40
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 83
+High random = 83 - 30
+Low random = 53 - 20
+Middle random = 33 - 50
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '0:Red#50.png',
+  '4:Red#1.png',
+  '2:Small#60.png',
+  '0:Shapes#100.png',
+  '1:Low#40.png',
+  '2:Middle#50.png'
+]
+RETURN: 0:Black#1.png-0:Red#50.png-4:Red#1.png-2:Small#60.png-0:Shapes#100.png-1:Low#40.png-2:Middle#50.png
+			AFTER createDNA 99
+Created edition: 22, with DNA: f5442e9d373d9d1d93d089e18fdf3584cb4fe44b
+	 abs indexes: 22,23,24,25
+	 abs indexes: 23,24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 84
+Red random = 84 - 50
+White random = 34 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 10
+Cyan random = 10 - 1
+Green random = 9 - 1
+Pink random = 8 - 1
+Purple random = 7 - 1
+Red random = 6 - 1
+Yellow random = 5 - 10
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 75
+Large random = 75 - 20
+Medium random = 55 - 20
+Small random = 35 - 60
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 2
+Shapes random = 2 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 62
+High random = 62 - 20
+Low random = 42 - 40
+Middle random = 2 - 40
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 39
+High random = 39 - 30
+Low random = 9 - 20
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '1:White#50.png',
+  '5:Yellow#10.png',
+  '2:Small#60.png',
+  '0:Shapes#100.png',
+  '2:Middle#40.png',
+  '1:Low#20.png'
+]
+RETURN: 0:Black#1.png-1:White#50.png-5:Yellow#10.png-2:Small#60.png-0:Shapes#100.png-2:Middle#40.png-1:Low#20.png
+			AFTER createDNA 105
+Created edition: 23, with DNA: 82c5ae136de47a627f25569d5d128f1de076a85b
+	 abs indexes: 23,24,25
+	 abs indexes: 24,25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 56
+Red random = 56 - 50
+White random = 6 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 4
+Cyan random = 4 - 1
+Green random = 3 - 1
+Pink random = 2 - 1
+Purple random = 1 - 1
+Red random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 61
+Large random = 61 - 20
+Medium random = 41 - 20
+Small random = 21 - 60
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 57
+Shapes random = 57 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 38
+High random = 38 - 20
+Low random = 18 - 40
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 92
+High random = 92 - 30
+Low random = 62 - 20
+Middle random = 42 - 50
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '1:White#50.png',
+  '4:Red#1.png',
+  '2:Small#60.png',
+  '0:Shapes#100.png',
+  '1:Low#40.png',
+  '2:Middle#50.png'
+]
+RETURN: 0:Black#1.png-1:White#50.png-4:Red#1.png-2:Small#60.png-0:Shapes#100.png-1:Low#40.png-2:Middle#50.png
+			AFTER createDNA 101
+Created edition: 24, with DNA: ab40c455bf9dec78b50909d414d873442f5dd4f7
+	 abs indexes: 24,25
+	 abs indexes: 25
+
+
+ #####################################################
+
+	 ########## layer: Background
+Total weight: 1
+RANDOM OG: 0
+Black random = 0 - 1
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eyeball
+Total weight: 100
+RANDOM OG: 55
+Red random = 55 - 50
+White random = 5 - 50
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Eye color
+Total weight: 15
+RANDOM OG: 13
+Cyan random = 13 - 1
+Green random = 12 - 1
+Pink random = 11 - 1
+Purple random = 10 - 1
+Red random = 9 - 1
+Yellow random = 8 - 10
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Iris
+Total weight: 100
+RANDOM OG: 65
+Large random = 65 - 20
+Medium random = 45 - 20
+Small random = 25 - 60
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Shine
+Total weight: 100
+RANDOM OG: 75
+Shapes random = 75 - 100
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Bottom lid
+Total weight: 100
+RANDOM OG: 88
+High random = 88 - 20
+Low random = 68 - 40
+Middle random = 28 - 40
+IN IFFFFFFFFFFFFFF +
+
+	 ########## layer: Top lid
+Total weight: 100
+RANDOM OG: 81
+High random = 81 - 30
+Low random = 51 - 20
+Middle random = 31 - 50
+IN IFFFFFFFFFFFFFF +
+[
+  '0:Black#1.png',
+  '1:White#50.png',
+  '5:Yellow#10.png',
+  '2:Small#60.png',
+  '0:Shapes#100.png',
+  '2:Middle#40.png',
+  '2:Middle#50.png'
+]
+RETURN: 0:Black#1.png-1:White#50.png-5:Yellow#10.png-2:Small#60.png-0:Shapes#100.png-2:Middle#40.png-2:Middle#50.png
+			AFTER createDNA 108
+Created edition: 25, with DNA: cfa27eeba852b5a1cc1b861892aa36c65b2df024
+	 abs indexes: 25
+	 abs indexes: 

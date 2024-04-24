@@ -1,0 +1,7 @@
+/lib
+/.github
+/script
+/test
+/.gas-snapshot
+/foundry.toml
+/sample.env
